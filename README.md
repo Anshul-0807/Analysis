@@ -1,1 +1,1 @@
-# Analysis of various kind of data-set
+# Analysis of various kind of data-sets
